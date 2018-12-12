@@ -1,2 +1,2 @@
 # Testes-ANFIS-OCTAVE
-Testes de Modelos Neuro-Fuzzy no OCTAVA/MATLAB
+Testes de Modelos Neuro-Fuzzy no OCTAVE/MATLAB
